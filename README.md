@@ -1,9 +1,14 @@
 # Phantom Keyboard
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Platform: Linux | macOS](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS-green)](https://github.com/neo4-svg/phantom_keyboard)
+[![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/neo4-svg/phantom_keyboard)
+
 Phantom Keyboard is a chaos‑driven keystroke interceptor for **Linux** and **macOS**.  
 It injects ghost inputs, timing jitter, fake typos, and phantom noise to confuse keyloggers, monitoring tools, and forensic analysis — while still letting you type normally.
 
-⚡ Hacker reality: Phantom Keyboard isn’t just a utility, it’s hacker art. Your typing looks chaotic to surveillance, but feels natural to you.
+⚡ Hacker reality: Phantom Keyboard isn't just a utility, it's hacker art. Your typing looks chaotic to surveillance, but feels natural to you.
 
 ---
 
