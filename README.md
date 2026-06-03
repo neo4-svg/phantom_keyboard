@@ -12,6 +12,12 @@ It injects ghost inputs, timing jitter, fake typos, and phantom noise to confuse
 
 ---
 
+## Demo
+
+![Phantom Keyboard Demo](Screenshot%20From%202026-06-03%2015-26-28.png)
+
+---
+
 ## Features
 - 🎹 Ghost keystrokes → random phantom keys injected into logs  
 - ⏱️ Timing jitter → micro‑delays and bursts to break typing rhythm analysis  
@@ -42,3 +48,4 @@ pip3 install pynput colorama pyyaml
 
 # Run Phantom Keyboard
 python3 phantom_linux1.py
+```
